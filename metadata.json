@@ -1,0 +1,6 @@
+{
+  "name": "LoopScope",
+  "description": "An interactive, beginner-first web application designed to teach arrays and array algorithms through step-by-step visualization, animation, and guided explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
